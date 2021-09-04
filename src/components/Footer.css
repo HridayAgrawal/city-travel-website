@@ -1,0 +1,51 @@
+footer.footer {
+  height: 100%;
+  background-color: black;
+  position: relative;
+}
+
+.container-4 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  flex-grow: 1;
+  flex-basis: 0;
+  padding: 3rem;
+}
+
+.container-4 h2 {
+  color: white;
+}
+
+.container-4 p {
+  color: rgb(212, 206, 206);
+}
+
+.about-us {
+  padding-left: 5.7rem;
+}
+
+.news-letter {
+  padding-left: 9rem;
+}
+
+.form-element input {
+  padding: 0.3rem 0.5rem;
+  border: none;
+}
+
+.follow-us {
+  padding-left: 6.3rem;
+}
+
+.container-4 i {
+  color: white;
+  padding: 0 0.5rem;
+}
+
+.copyright {
+  display: flex;
+  justify-content: center;
+  color: rgb(212, 206, 206);
+  padding-top: 7.1rem;
+  padding-bottom: 1rem;
+}

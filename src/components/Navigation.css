@@ -1,0 +1,12 @@
+.nav-link {
+  padding-left: 300px;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.navbar {
+  opacity: 0.95;
+  height: 11vh;
+}

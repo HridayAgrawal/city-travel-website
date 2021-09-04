@@ -1,0 +1,31 @@
+.card-heading {
+  display: flex;
+  justify-content: center;
+}
+
+.event-cards {
+  padding-top: 3.2rem;
+  padding-bottom: 6.3rem;
+  display: flex;
+}
+
+.card {
+  padding-bottom: 1.1rem;
+}
+
+.card-body {
+  padding-top: 1.4rem;
+}
+
+.card1 {
+  margin-left: 8rem;
+  margin-right: 8rem;
+}
+
+.card2 {
+  margin-right: 8rem;
+}
+
+.card3 {
+  margin-right: 8rem;
+}

@@ -1,0 +1,24 @@
+.carousel-heading {
+  display: flex;
+  justify-content: center;
+}
+
+.container-3 {
+  padding-top: 1.7rem;
+  padding-bottom: 7.5rem;
+}
+
+.carousel {
+  background-color: #222831;
+}
+
+.carousel-item img {
+  margin-left: 290px;
+}
+
+.carousel-img {
+  width: 62%;
+  height: 100vh;
+  padding-bottom: 5rem;
+  padding-top: 5rem;
+}

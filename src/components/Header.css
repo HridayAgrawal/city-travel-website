@@ -1,0 +1,15 @@
+.first-container {
+  background: url("../city.jpg");
+  background-size: cover;
+  height: 110vh;
+  display: flex;
+  justify-content: center;
+}
+
+.first-container h1 {
+  padding-top: 10rem;
+  align-items: center;
+  color: white;
+  font-size: 6.5rem;
+  font-family: "Bebas Neue", cursive;
+}
